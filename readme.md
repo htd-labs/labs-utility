@@ -7,7 +7,7 @@ use the command 'help'.
 
 ## Initial review - java Labs
 - java-streams
-- java-reflections
+- java-reflection
 - java-parsepathparameter
 - java-deserialization
 - java-json
