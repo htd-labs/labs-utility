@@ -7,6 +7,9 @@ import com.revature.Exception.LabOpenException;
 import com.revature.Service.*;
 import com.revature.View.CLIParser;
 
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
 import java.util.Scanner;
 
 public class App {
@@ -41,6 +44,15 @@ public class App {
                     "Please set your github username using 'git config --global user.name YOUR_USERNAME' \n" +
                     "Here is the stack trace: ");
             ex.printStackTrace();
+        }
+        List<Object> list1 = new ArrayList<>();
+        list1 = new LinkedList<>();
+
+        List<Object> list2;
+        if(Math.random() < .5){
+            list2 = new LinkedList<>();
+        }else{
+            list2 = new ArrayList<>();
         }
 
     }

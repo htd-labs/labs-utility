@@ -2,10 +2,7 @@
 
 This folder contains LabLoader2's source code, in case you
 are interested in looking at a functioning app following some
-good practices. First of all, why LabLoader2? Well... it seems
-that my original LabLoader, which is a large project leveraging
-a Spring backend and Azure cloud resources, is blocked on Geico's
-network.
+good practices.
 
 There's no need to modify the source code, or to run the main
 method directly here. You should run the project's jarfile

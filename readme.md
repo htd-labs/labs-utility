@@ -2,86 +2,19 @@
 This repository is a utility to help you access Revature coding labs.
 
 # Labs
-You can run the Labs utility using the command `java -jar labs.jar`, see below the list of labs for usage guide.
+You can run the Labs utility using the command `java -jar labs.jar`, see below the list of labs for usage guide or
+use the command 'help'.
 
-## Week 1 labs
-- java-helloworld
-- java-methods
-- java-parameters
-- java-returntypes
-- java-methodparameters
-- java-combinestrings
-- java-comparisons
-- java-add
-- java-subtract
-- java-ifstatement
-- java-greaterorlesser
-- java-instantiation
-- java-introtooop
-- java-constructors
-- java-guessinggame
-- java-arrays
-- java-lists
-- cc-evenorodd
-- cc-hardcodedlogin
-## Week 2 labs
-- java-whileloop
-- java-forloop
-- java-booleanoperators
-- java-exceptions
-- java-uncheckedexception
-- java-throwcustomexception
-- java-casting
-- java-math
-- java-statickeyword
-- java-bankaccount
-- java-stringmethods
-- java-otherstringmethods
-- java-parentobjectclassmethods
-- java-overriding
-- java-interfaces
-- java-generic
-- cc-setallarrayelementston
-- cc-returnarraycontents
-- cc-fizzbuzz
-## Week 3 labs
-- java-sets
-- java-map
-- java-queue
-- java-stack
-- jav-creatingendpoints
-- jav-statuscodes
-- jav-pathparameters
-- jav-requestbody
-- cc-arraysum
-- cc-average
-- cc-getmax
-- cc-contains
-- cc-doesnotcontain
-- cc-indexof
-- cc-issorted
-- cc-arraysareequal
-- cc-maxminusmin
-- cc-containsduplicates
-## Week 4 labs
-- sql-createtable
-- sql-droptable
-- sql-insert
-- sql-selectall
-- sql-primarykey
-- sql-selectwhere
-- sql-update
-- sql-delete
-- sql-selectwhereandor
-- sql-grocerylist
-- sql-foreignkey
-- sql-innerjoin
-- sql-outerjoin
-- cc-pyramid
-- cc-search2darray
-- cc-returnlongeststring
-- cc-removeallcharacter
-## Week 5 labs
+## Initial review - java Labs
+- java-streams
+- java-reflections
+- java-parsepathparameter
+- java-deserialization
+- java-json
+## Initial review - Spring
+- spr-fitnessapi
+- spr-artapi
+## HTML/CSS/JavaScript
 - js-homepage
 - js-cssinline
 - js-cssselectors
@@ -107,78 +40,27 @@ You can run the Labs utility using the command `java -jar labs.jar`, see below t
 - js-fetch
 - js-fetchimage
 - js-spreadrest
-## Week 6 labs
-- sql-selectcolumns
-- sql-orderby
-- sql-truncate
-- sql-altertable
-- sql-aggregatefunctions
-- sql-groupby
-- sql-createview
-- java-advancedbooleans
-- java-streams
-- java-reflections
-- cc-parsepathparameter
-- cc-deserialization
-- cc-json
-- cc-insertposition
-- cc-istheresum
-- cc-arrayabsolutevalue
-- cc-piglatin
-- cc-combinearrays
-## Week 7 labs
-- react-components
-- react-props
-- react-state
-- react-events
-- react-conditional-rendering
-- react-component-styling
-- react-lists-and-keys
-- react-routing
-- java-wordcount
-- cc-isogram
-- cc-fibonacci
-- cc-reverseastring
-- cc-largestsum
-- cc-charcomparison
-## Week 8 labs
-- react-forms
-- react-use-effect
-- react-model-classes
-- react-axios
-- react-lifting-state
-- react-context
-- react-higher-order-components
-- cc-mostcommoncharacter
-- cc-stringispalindrome
-- cc-subarray
-- cc-wordcountmap
-## Week 9 labs
-- spr-di
-- spr-applicationcontext
-- spr-beancopes
-- spr-boot
-- spr-restcontroller
-- spr-entity
-- spr-lombok
-- spa-jpacrud
-- spr-fitnessapi
-- spr-requestparam
-- spr-relationships
-- spr-jpamultiplicity
-- spr-namedqueries
-- spr-artapi
-- spr-query
-- spr-responseentity
-- spr-transactional
-## Optional difficult labs
+## Angular Labs
+- ang-component
+- ang-binding
+- ang-directives
+- ang-inputoutput
+- ang-routing
+- ang-eventemitter
+- ang-lifecycle
+- ang-service
+- ang-modelclass
+- ang-observable
+- ang-httpclient
+## Optional difficult java labs
 - java-sort
 - java-binarysearch
 - java-customserializer
 - java-encryption
 - java-urlvalidation
-- java-anagram
+## Optional difficult coding challenges
 - cc-bracketsaroundperiod
+- cc-anagram
 - cc-prime
 - cc-returnduplicates
 - cc-reverseallwords

@@ -66,9 +66,10 @@ public class CLIParser {
         }
     }
     public String getHelpMessage(){
-        return "You may use the commands 'clear' to clear the workspace's current labs without saving, \n" +
-                "or 'open [labname]' (eg open java-helloworld) to open a lab (this will auto-save the current lab)," +
-                "or 'save' to manually save the current lab.";
+        return "You may use the commands 'check' to verify connectivity to the labs system, \n" +
+                "'clear' to clear the workspace's current labs without saving, \n" +
+                "'open [labname]' (eg open java-helloworld) to open a lab (this will auto-save the current lab), \n" +
+                "'save' to manually save the current lab.";
     }
     public String getSavedMessage(){
         return "Saved the lab progress.";
